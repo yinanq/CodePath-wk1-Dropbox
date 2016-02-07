@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E1514F301C66FA5E009D50B7 /* FileDetailViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1514F2F1C66FA5E009D50B7 /* FileDetailViewViewController.swift */; };
+		E1514F321C6701E3009D50B7 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1514F311C6701E3009D50B7 /* WelcomeViewController.swift */; };
+		E1514F341C6725CB009D50B7 /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1514F331C6725CB009D50B7 /* FavoritesViewController.swift */; };
+		E1641EB11C66C32000273FC9 /* TermsOfServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1641EB01C66C32000273FC9 /* TermsOfServiceViewController.swift */; };
+		E195837F1C66D94E00FE5907 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E195837E1C66D94E00FE5907 /* SettingsViewController.swift */; };
+		E19583811C66E26300FE5907 /* PhotosTabExisitingUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19583801C66E26300FE5907 /* PhotosTabExisitingUserViewController.swift */; };
+		E19583831C66E41E00FE5907 /* FilesTabExistingUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E19583821C66E41E00FE5907 /* FilesTabExistingUserViewController.swift */; };
+		E1AF780B1C66BE6900FF4414 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1AF780A1C66BE6900FF4414 /* SignInViewController.swift */; };
+		E1E3B7851C66A8EF00CD9487 /* LoggedOutBeforeCreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3B7841C66A8EF00CD9487 /* LoggedOutBeforeCreateAccountViewController.swift */; };
+		E1E3B7871C66B01000CD9487 /* loggedOutBeforeSignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3B7861C66B01000CD9487 /* loggedOutBeforeSignInViewController.swift */; };
+		E1F82EE61C66B95900D757A7 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1F82EE51C66B95900D757A7 /* CreateAccountViewController.swift */; };
 		F67564C61C62F2C200B248CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F67564C51C62F2C200B248CE /* AppDelegate.swift */; };
 		F67564C81C62F2C200B248CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F67564C71C62F2C200B248CE /* ViewController.swift */; };
 		F67564CB1C62F2C200B248CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F67564C91C62F2C200B248CE /* Main.storyboard */; };
@@ -34,6 +45,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E1514F2F1C66FA5E009D50B7 /* FileDetailViewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileDetailViewViewController.swift; sourceTree = "<group>"; };
+		E1514F311C6701E3009D50B7 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		E1514F331C6725CB009D50B7 /* FavoritesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
+		E1641EB01C66C32000273FC9 /* TermsOfServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsOfServiceViewController.swift; sourceTree = "<group>"; };
+		E195837E1C66D94E00FE5907 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		E19583801C66E26300FE5907 /* PhotosTabExisitingUserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosTabExisitingUserViewController.swift; sourceTree = "<group>"; };
+		E19583821C66E41E00FE5907 /* FilesTabExistingUserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilesTabExistingUserViewController.swift; sourceTree = "<group>"; };
+		E1AF780A1C66BE6900FF4414 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		E1E3B7841C66A8EF00CD9487 /* LoggedOutBeforeCreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoggedOutBeforeCreateAccountViewController.swift; sourceTree = "<group>"; };
+		E1E3B7861C66B01000CD9487 /* loggedOutBeforeSignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loggedOutBeforeSignInViewController.swift; sourceTree = "<group>"; };
+		E1F82EE51C66B95900D757A7 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 		F67564C21C62F2C200B248CE /* CodePath wk1 Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CodePath wk1 Dropbox.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F67564C51C62F2C200B248CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F67564C71C62F2C200B248CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +99,7 @@
 		F67564B91C62F2C200B248CE = {
 			isa = PBXGroup;
 			children = (
+				E1514F331C6725CB009D50B7 /* FavoritesViewController.swift */,
 				F67564C41C62F2C200B248CE /* CodePath wk1 Dropbox */,
 				F67564D91C62F2C200B248CE /* CodePath wk1 DropboxTests */,
 				F67564E41C62F2C200B248CE /* CodePath wk1 DropboxUITests */,
@@ -100,6 +123,16 @@
 				F67564C51C62F2C200B248CE /* AppDelegate.swift */,
 				F67564C71C62F2C200B248CE /* ViewController.swift */,
 				F67564C91C62F2C200B248CE /* Main.storyboard */,
+				E1514F311C6701E3009D50B7 /* WelcomeViewController.swift */,
+				E1514F2F1C66FA5E009D50B7 /* FileDetailViewViewController.swift */,
+				E19583821C66E41E00FE5907 /* FilesTabExistingUserViewController.swift */,
+				E19583801C66E26300FE5907 /* PhotosTabExisitingUserViewController.swift */,
+				E195837E1C66D94E00FE5907 /* SettingsViewController.swift */,
+				E1641EB01C66C32000273FC9 /* TermsOfServiceViewController.swift */,
+				E1AF780A1C66BE6900FF4414 /* SignInViewController.swift */,
+				E1F82EE51C66B95900D757A7 /* CreateAccountViewController.swift */,
+				E1E3B7861C66B01000CD9487 /* loggedOutBeforeSignInViewController.swift */,
+				E1E3B7841C66A8EF00CD9487 /* LoggedOutBeforeCreateAccountViewController.swift */,
 				F67564CC1C62F2C200B248CE /* Assets.xcassets */,
 				F67564CE1C62F2C200B248CE /* LaunchScreen.storyboard */,
 				F67564D11C62F2C200B248CE /* Info.plist */,
@@ -259,8 +292,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1514F341C6725CB009D50B7 /* FavoritesViewController.swift in Sources */,
+				E1F82EE61C66B95900D757A7 /* CreateAccountViewController.swift in Sources */,
+				E1514F301C66FA5E009D50B7 /* FileDetailViewViewController.swift in Sources */,
+				E1E3B7871C66B01000CD9487 /* loggedOutBeforeSignInViewController.swift in Sources */,
+				E1AF780B1C66BE6900FF4414 /* SignInViewController.swift in Sources */,
 				F67564C81C62F2C200B248CE /* ViewController.swift in Sources */,
+				E1641EB11C66C32000273FC9 /* TermsOfServiceViewController.swift in Sources */,
+				E19583811C66E26300FE5907 /* PhotosTabExisitingUserViewController.swift in Sources */,
+				E19583831C66E41E00FE5907 /* FilesTabExistingUserViewController.swift in Sources */,
+				E1E3B7851C66A8EF00CD9487 /* LoggedOutBeforeCreateAccountViewController.swift in Sources */,
+				E1514F321C6701E3009D50B7 /* WelcomeViewController.swift in Sources */,
 				F67564C61C62F2C200B248CE /* AppDelegate.swift in Sources */,
+				E195837F1C66D94E00FE5907 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -485,6 +529,7 @@
 				F67564EC1C62F2C200B248CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F67564ED1C62F2C200B248CE /* Build configuration list for PBXNativeTarget "CodePath wk1 DropboxTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +538,7 @@
 				F67564EF1C62F2C200B248CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F67564F01C62F2C200B248CE /* Build configuration list for PBXNativeTarget "CodePath wk1 DropboxUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +547,7 @@
 				F67564F21C62F2C200B248CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
