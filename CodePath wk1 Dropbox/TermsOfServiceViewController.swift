@@ -34,7 +34,7 @@ class TermsOfServiceViewController: UIViewController {
 
     @IBAction func onTouchUpInside(sender: AnyObject) {
         //close modal with reverse animation:
-        //this didn't work:
+        //tried this didn't work:
 //        navigationController!.popViewControllerAnimated(true)
         //thanks to https://youtu.be/ET8d-jX0X3g?t=48m57s this works:
         presentingViewController?.dismissViewControllerAnimated(true, completion: nil)

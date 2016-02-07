@@ -1157,14 +1157,14 @@
         <image name="welcome3" width="320" height="568"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="tHn-6G-1wW"/>
+        <segue reference="VTo-up-8cn"/>
         <segue reference="b28-m1-xON"/>
         <segue reference="D2y-Q3-QhB"/>
-        <segue reference="VTo-up-8cn"/>
-        <segue reference="Uhu-c3-1of"/>
+        <segue reference="tHn-6G-1wW"/>
+        <segue reference="Lgu-gP-L0R"/>
+        <segue reference="fea-7U-rcF"/>
         <segue reference="Ogk-JC-yFw"/>
         <segue reference="RmS-L6-JUe"/>
         <segue reference="nB3-ZX-ijl"/>
-        <segue reference="JiS-K2-ILO"/>
     </inferredMetricsTieBreakers>
 </document>
