@@ -15,6 +15,3 @@ Stories completed:
 GIF walkthrough (using LiceCap):
 
 ![tiiip](https://cloud.githubusercontent.com/assets/14037687/12871774/61a45a6a-cd3f-11e5-9216-8dc37fa9ed22.gif)
-
-Thanks (besides the very helpful Facebook group posts & replies and CodePath Guides for the assignment):
-https://youtu.be/ET8d-jX0X3g?t=48m57s
